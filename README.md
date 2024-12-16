@@ -35,18 +35,11 @@ A batch script that helps split large files into smaller chunks using 7-Zip with
 
 ## 📥 Installation
 1. Download the `split_large_files.bat` script
-2. Place it in any directory containing files you want to split
-   ```bash
-   wget https://raw.githubusercontent.com/yourusername/repo/main/split_large_files.bat
-   ```
-   Or simply copy the script contents and save as a .bat file
+2. Place it in any directory containing files you want to split Or simply copy the script contents and save as a .bat file
 
 ## 🚀 Usage
 1. Place the script in the folder containing your large file(s)
-2. Double-click to run the script, or run from command prompt:
-   ```cmd
-   split_large_files.bat
-   ```
+2. Double-click to run the script
 3. Select the file you want to split from the displayed list
 4. Confirm the operation
 5. Wait for the process to complete
